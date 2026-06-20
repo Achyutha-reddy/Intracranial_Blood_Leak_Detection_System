@@ -8,3 +8,11 @@ mysql-connector-python==9.3.0
 scikit-learn==1.6.1
 matplotlib==3.10.1
 seaborn==0.13.2
+
+
+flask
+tensorflow
+numpy
+pillow
+opencv-python
+gunicorn

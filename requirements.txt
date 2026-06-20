@@ -1,18 +1,32 @@
+# Flask==2.0.1
+# Pillow==10.4.0
+# numpy==1.24.3
+# tensorflow==2.10.0
+# keras==2.10.0
+# pandas==2.2.3
+# mysql-connector-python==9.3.0
+# scikit-learn==1.6.1
+# matplotlib==3.10.1
+# seaborn==0.13.2
+
+
+setuptools>=70.0.0
+wheel
+
 Flask==2.0.1
+gunicorn
+
 Pillow==10.4.0
 numpy==1.24.3
+
 tensorflow==2.10.0
 keras==2.10.0
+
 pandas==2.2.3
 mysql-connector-python==9.3.0
+
 scikit-learn==1.6.1
 matplotlib==3.10.1
 seaborn==0.13.2
 
-
-flask
-tensorflow
-numpy
-pillow
 opencv-python
-gunicorn
